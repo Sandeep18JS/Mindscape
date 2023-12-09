@@ -1,4 +1,4 @@
-# mindspace
+#  Instructions on how to set up and run application
 
 Full stack Login , Signup system created with Vite + react for Front and ,Node js with express for back-end.
 
