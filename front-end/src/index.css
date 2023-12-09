@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-yatra {
+    font-family: 'Yatra One', sans-serif;
+}
+
+.font-league {
+    font-family: 'League Spartan', sans-serif;
+}
